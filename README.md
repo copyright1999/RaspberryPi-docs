@@ -73,6 +73,10 @@
 # 新增说明
 主要是参考的这个链接
 https://github.com/flyleaf91/RaspberryPi
+相关的文档放在zip文件夹中了
+
+
+
 ## 参考文档
 
 * [Raspberry Pi](https://www.raspberrypi.org/)
